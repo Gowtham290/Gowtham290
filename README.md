@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gowtham29o6
 - 👀 I’m interested in full stack web development 
 - 🌱 I’m currently learning UG DEGREE 
-- 💞️ I’m looking to collaborate on mor friends
+- 💞️ I’m looking to collaborate on more friends
 - ⚡ Fun fact:
 -       ✨ happy to live.
 -       🫰I'm single 
